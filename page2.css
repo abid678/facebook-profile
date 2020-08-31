@@ -1,0 +1,26 @@
+
+body{
+			background:#333333;	
+				
+	}
+	
+	
+h1{
+		 text-align:center;
+		 color:#d9d9d9;
+		 font-size:80px;
+		 border-style:solid;
+		 border-color:#ff1a1a;
+		 border-radius:50px;
+			
+				
+	}
+
+img{
+				height:800px;
+				width:1000px;
+				border-style:solid;
+		   border-color:#ff1a1a;
+	    border-radius:100px;
+	    border-width:10px;
+}
